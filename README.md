@@ -1,2 +1,2 @@
-# Kubernetes Work
+# Kubernetes Resources And Projects
 Learning Kubernetes
